@@ -1,6 +1,6 @@
 # amrconvert
 
-'''
+```
 AMR Converter
 
 This is a simple script I wrote in perl to convert between AMR and diferent audio formats (WAV, MIDI & MP3).
@@ -47,4 +47,4 @@ MMS Diary
 Thanks to Stefan Hellkvist for his comments.
 
 If you need more info just E-mail me to amrconvert@xa.bi
-'''
+```
